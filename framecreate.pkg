@@ -1,0 +1,16 @@
+d 'filetype': a command to detect and parse a file type.
+d
+d filetype is a program to detect the file type of a file, and to parse the file name and extension.
+d
+d KW: Data management
+=d
+d Requires: Stata version 9.2
+d
+d Distribution-Date: 202408
+d
+d Author: Marshall Garland
+d	  Research Scientist,
+d	  University of Southern California Consulting Group
+d Author Email : garlandm @t usc[dot] edu
+d
+f filetype.ado

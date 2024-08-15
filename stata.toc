@@ -1,0 +1,6 @@
+v 3
+d filetype: A program to detect and parse the type of file.
+d
+d Marshall Garland, University of Southern California, Austin, TX. 
+
+p filetype
